@@ -1,0 +1,12 @@
+.h1{
+    color: aquamarine;
+}
+.para
+{
+ color: aqua;
+ background-color: beige;
+ background-image: url(space-computer-1920x1200-desktop-wallpaper-preview.jpg);
+ height: 100px;
+ background-repeat: no-repeat;
+ background-size:contain ;
+}
